@@ -1,0 +1,12 @@
+#tracking-task-cards-container::-webkit-scrollbar {
+    width: 8px;  /* 스크롤바 너비 */
+}
+
+#tracking-task-cards-container::-webkit-scrollbar-thumb {
+    background-color: #ddd;  /* 스크롤바 색상 */
+    border-radius: 4px;
+}
+
+#tracking-task-cards-container::-webkit-scrollbar-track {
+    background: #464444;  /* 스크롤 트랙 색상 */
+}

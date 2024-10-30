@@ -1,0 +1,6 @@
+[submodule "llmgaugeflow/submodules/LogicKor"]
+	path = llmgaugeflow/submodules/LogicKor
+	url = https://github.com/instructkr/LogicKor.git
+[submodule "llmgaugeflow/submodules/KoMT-Bench"]
+	path = llmgaugeflow/submodules/KoMT-Bench
+	url = https://github.com/LG-AI-EXAONE/KoMT-Bench.git
